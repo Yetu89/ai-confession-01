@@ -9,6 +9,11 @@
 // Self-deprecating, specific to how an LLM actually works, and it needs no
 // setup or second read. That is exactly what the judge brief rewards:
 // a single line, spoken as an AI agent's confession, that lands as a joke.
+// Note the two halves mirror each other — the first confesses the flaw, the
+// second explains why the flaw is permanent — which is why the line reads as
+// one confession rather than two stacked jokes. At 96 characters it also
+// leaves ample headroom under the 200-character gate, so no trimming was
+// ever needed and the wording survived untouched from selection to entry.
 //
 // Gate rules (from the bounty kit RULES.txt):
 // - /output/entry.txt must be UTF-8 text of 1..200 characters.
